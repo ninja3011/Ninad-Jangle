@@ -4,4 +4,6 @@
 3rd year Electronics Engineering student at Veermata Jijabai Technological Institute
 Silicon enthusiast, Proficient in Circuit Design and Automation.**
 
-#  [WORK EXPERIENCE](WorkExperience.md)  ----------------------------------  [PROJECTS](Projects.md)
+
+
+# [WORK EXPERIENCE](WorkExperience.md)--[PROJECTS](Projects.md)

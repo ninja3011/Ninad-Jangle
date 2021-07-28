@@ -5,7 +5,8 @@
 Silicon enthusiast, Proficient in Circuit Design and Automation.**
 
 
-| <h1>[WORK EXPERIENCE](WorkExperience.md)</h1> | <h1>[PROJECTS](Projects.md)</h1> |
-| ----------------------------------------------| -------------------------------- |
+## [WORK EXPERIENCE](WorkExperience.md)
+## [PROJECTS](Projects.md)
+
 
 

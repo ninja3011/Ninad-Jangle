@@ -4,6 +4,8 @@
 3rd year Electronics Engineering student at Veermata Jijabai Technological Institute
 Silicon enthusiast, Proficient in Circuit Design and Automation.**
 
+# [PROJECTS](Projects.md)
+
 ## Work Experience
 
 **Open Source Developer Dr Gayatri Mehta, Mr. Steve Hoover

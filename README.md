@@ -1,8 +1,10 @@
-Work Experience
 
-#### Gsoc 21' @FOSSi Foundation | 2nd Prize @7th Delta Advanced Automation Cup | SRA VJTI
-- 3rd year Electronics Engineering student at Veermata Jijabai Technological Institute
-- Silicon enthusiast, Proficient in Circuit Design and Automation. 
+
+#### Gsoc 21' @FOSSi Foundation | 2nd Prize @7th Delta Advanced Automation Cup | SRA VJTI 
+#### 3rd year Electronics Engineering student at Veermata Jijabai Technological Institute
+#### Silicon enthusiast, Proficient in Circuit Design and Automation. 
+
+## Work Experience
 
 #### Open Source Developer Dr Gayatri Mehta, Mr. Steve Hoover
 #### Google Summer of Code 2021, FOSSi Foundation June 2021 - Present
@@ -25,4 +27,4 @@ Filters, DH Parameters, two-wheeled self balancing DDRs, Logisim, RISC-V.
 -  Currently designing Circuit Design Projects to mentor Juniors for the Summer Mentorship Program of
 S.R.A, Eklavya.
 
-- 
+

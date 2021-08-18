@@ -5,7 +5,7 @@
 [(GSoC Final Blog)](/final_blog)
 [Tracker](/tracker)
 <p align="center">
-    <img width="280" height="280" src="images/FOSSi.png">
+    <img width="280" height="280" src="images/FOSSi.jpeg">
 </p>
 
 ---

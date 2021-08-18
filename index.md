@@ -3,7 +3,7 @@
 **Google Summer of Code 2021 with FOSSi Foundation** \
 *Block Based Circuit Design Project*
 [(GSoC Final Blog)](/final_blog)
-[Tracker](/tracker)
+[(Daily Tracker)](/gsoc-2021)
 <p align="center">
     <img width="280" height="280" src="images/FOSSi.jpeg">
 </p>

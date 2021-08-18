@@ -1,11 +1,11 @@
 ## Projects & Experience
 
-**Verification Intern at Shakti Lab, RISE Group, IITM** \
-*FPGA Based Verification of Shakti Processors*
-[(Project Report)](https://ninadjangle.tech/pdf/SHAKTI_REPORT.pdf)
-[(Completion Letter)](https://ninadjangle.tech/pdf/Completion_letter.pdf)
+**Google Summer of Code 2021 with FOSSi Foundation** \
+*Block Based Circuit Design Project*
+[(GSoC Final Blog)](/final_blog)
+[Tracker](/tracker)
 <p align="center">
-    <img width="280" height="280" src="images/shakti.png">
+    <img width="280" height="280" src="images/FOSSi.png">
 </p>
 
 ---

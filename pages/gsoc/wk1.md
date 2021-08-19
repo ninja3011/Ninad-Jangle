@@ -66,8 +66,6 @@
        <b>Pythaorean Ex in Blockly</b><br>
        <img width="80%" height="80%" src="../../images/tracker/image41.png"><br>
        <b>Testing Code in MakerChuip</b><br>
-       <img width="80%" height="80%" src="../../images/tracker/image40.png"><br>
-  
- 
-</p> 
+       <img width="80%" height="80%" src="../../images/tracker/image40.png">
+     </p> 
 

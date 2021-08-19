@@ -10,7 +10,7 @@
    * Employed a very implistic permutations algortihm which creates all combinations for scope.
    * I need to make it smart, make sure only the relevant scopes come
 <p align="center">     
-  <img width="80%" height="80%" src="../../images/tracker/image23.png"> 
+  <img width="40%" height="40%" src="../../images/tracker/image23.png"> 
 </p>
 
 2. **25/06/2021:**

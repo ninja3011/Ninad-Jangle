@@ -1,5 +1,5 @@
 ## Projects & Experience
-/ [Home](/index) / [About Me](/about) / [Blogs](/blogs) / 
+/ [Home](/index) / [About Me](/about) / [Blogs](/blogs_main) / 
  
 ---
 

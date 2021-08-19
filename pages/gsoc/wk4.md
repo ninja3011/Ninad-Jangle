@@ -23,7 +23,7 @@
      - Need to see more
 
 3. **26/06/2021:**
-   * Took a day off to go on a Full Day Trek at Naneghat
+   * Took a day off to go on a Trek
 4. **27/06/2021:**
    * Rewrote some of the code, In a git error and stuff I used force and some parts of my code got washed out
    * Also, there seem to be conflicts, sorting that out

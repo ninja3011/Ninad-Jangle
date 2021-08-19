@@ -6,7 +6,7 @@
 **Google Summer of Code 2021 with FOSSi Foundation** 
 
 [**Block Based Circuit Design Project**](https://gsoc-block-based-circuit-design-site.netlify.app/)
-[(GSoC Final Blog) ](/gsoc-final_blog) 
+[(GSoC Final Blog) ](/gsoc-final-blog) 
 [ (Daily Tracker)](/gsoc-2021)
 
 <p align="center">

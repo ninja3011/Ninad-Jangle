@@ -14,18 +14,17 @@
 1. **10/06/2021:** 
    * Redesigned Layout to a Vertical column layout with three portions(toolbox, workspace, textArea+buttons) for better aesthetics and ease of programming. 
    * Put the code in Main.js, just using <Main /> in App.js for easy migration to warp-v.org later. 
-   * 
 
 2. **11/06/2021:**
    * Added Blocks to XML and XML to Blocks functionality.
    * Added Save to Local Storage and Recover from Local Storage functionality for ease of development.
  <h5  align="center" > Blockly to TLV </h5>
 <p align="center">     
-  <img width="50%" height="50%" src="../../images/tracker/image55.png"> 
+  <img src="../../images/tracker/image55.png"> 
 </p>
  <h5  align="center" > XML to Blockly </h5>
 <p align="center">     
-  <img width="50%" height="50%" src="../../images/tracker/image78.png"> 
+  <img src="../../images/tracker/image78.png"> 
 </p>
 
 3. **12/06/2021:**

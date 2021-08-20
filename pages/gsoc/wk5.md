@@ -43,12 +43,12 @@
 
 6. **6/07/2021:**
    * Starting to add custom categories. [Reference](https://groups.google.com/forum/#!topic/blockly/MmGnFkfFXaI)
-   <p align="center">     
+    <p align="center">     
     <img src="../../images/tracker/image9.png"> 
-  </p>  
+    </p>
 
 7. **7/07/2021:**
    * Working on developing a dynamic toolbox :
-     * [google group](https://developers.google.com/blockly/guides/configure/web/toolbox)
+     * [Google Group](https://developers.google.com/blockly/guides/configure/web/toolbox)
      * [Github Issue ](https://github.com/google/blockly/issues/872)
 

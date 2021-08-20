@@ -10,7 +10,7 @@
    * Employed a very implistic permutations algortihm which creates all combinations for scope.
    * I need to make it smart, make sure only the relevant scopes come
 <p align="center">     
-  <img width="40%" height="40%" src="../../images/tracker/image23.png"> 
+  <img src="../../images/tracker/image23.png"> 
 </p>
 
 2. **25/06/2021:**
@@ -32,7 +32,7 @@
      - Basically using extensions again and using a click handler on the image block.
      - the png acts as a field and we get that field and see click event on that.
 <p align="center">     
-  <img width="80%" height="80%" src="../../images/tracker/image63.png"> 
+  <img src="../../images/tracker/image63.png"> 
 </p>
 
 5. **28/06/2021:**
@@ -41,7 +41,7 @@
      - [https://developers.google.com/blockly/reference/js/Blockly.Field](https://developers.google.com/blockly/reference/js/Blockly.Field)
      - [https://groups.google.com/g/blockly/c/sH-MhfGsXX4](https://groups.google.com/g/blockly/c/sH-MhfGsXX4)
 <p align="center">     
-  <img width="80%" height="80%" src="../../images/tracker/image1.png"> 
+  <img src="../../images/tracker/image1.png"> 
 </p>
 6. **29/06/2021:**
    * Added the clickable button blocks for the retiming. 
@@ -53,6 +53,6 @@
       - [https://github.com/google/blockly/issues/4060](https://github.com/google/blockly/issues/4060)
       - [https://groups.google.com/g/blockly/c/k56NRUfu-5U/m/QlZIQUuaAwAJ](https://groups.google.com/g/blockly/c/k56NRUfu-5U/m/QlZIQUuaAwAJ)
 <p align="center">     
-  <img width="60%" height="60%" src="../../images/tracker/image18.png"> 
+  <img src="../../images/tracker/image18.png"> 
 </p>
       

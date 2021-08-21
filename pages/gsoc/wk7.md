@@ -16,7 +16,7 @@
 
 2. **16/07/2021:**
    * I have begun commenting on the code alongside experimenting with the features, the code is there for Adam to sift through as he finds time.
-   * 
+   
 3. **17/07/2021:**
    * Tried implementing a mutator on a dummy block. It is giving me some undefined errors. My placement of code is imperfect. So the registry isn't working. Most examples I saw used Javascript definitions. I have been trying block with json definition. Will try the other one tomorrow.
    * Couldn't get to the commenting today cause got caught up in trying to get the mutator to work. Will get to it next and complete it first then get back to mutator and try again.

@@ -32,4 +32,14 @@
    * 40% through merging the generator and the blocks folder files
    * Switched out functional components for class based components
 7. **21/07/2021:**
-   * A
+   * Returned formed divs instead of React.createElements from index.js of BlocklyComponent
+   * Used object destructuring to get props and manipulate those elements instead of the props directly
+   * References
+     * [List Create](https://github.com/google/blockly-samples/blob/master/plugins/block-plus-minus/src/list_create.js)
+     * [Google Groups](https://groups.google.com/g/blockly/c/hnhObVXLJw4)
+
+
+
+
+
+

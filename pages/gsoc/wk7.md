@@ -7,9 +7,16 @@
 ---
 
 1. **15/07/2021:** 
-   * A
+   * Added signal Categories
+   * Fixed display
+   * Made 2 examples: Validity and fibonacci
+   * fixed upload button
+   * Added button styling
+   * Bifurcated the files
+
 2. **16/07/2021:**
    * I have begun commenting on the code alongside experimenting with the features, the code is there for Adam to sift through as he finds time.
+   * 
 3. **17/07/2021:**
    * Tried implementing a mutator on a dummy block. It is giving me some undefined errors. My placement of code is imperfect. So the registry isn't working. Most examples I saw used Javascript definitions. I have been trying block with json definition. Will try the other one tomorrow.
    * Couldn't get to the commenting today cause got caught up in trying to get the mutator to work. Will get to it next and complete it first then get back to mutator and try again.
@@ -21,6 +28,8 @@
    * Tried implementing the npm package to add a dropdown to select variable type so I could make pipeline and other scopes into variables. But it didn't on the site.
    *  My inclusion of code must be in wrong location or passing the wrong parameters. Will try it again tomorrow. Just gave it a surface test rn. Will try to read into its code and see how the functions are implemented tomorrow. That should give me a clue.
 6. **20/07/2021:**
-   * 
+   * Put CSS in JS instead of seperate CSS files
+   * 40% through merging the generator and the blocks folder files
+   * Switched out functional components for class based components
 7. **21/07/2021:**
    * A

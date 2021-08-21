@@ -34,6 +34,9 @@
 7. **21/07/2021:**
    * Returned formed divs instead of React.createElements from index.js of BlocklyComponent
    * Used object destructuring to get props and manipulate those elements instead of the props directly
+   <p align="center">     
+  <img src="../../images/tracker/image56.png"> 
+   </p>
    * References
      * [List Create](https://github.com/google/blockly-samples/blob/master/plugins/block-plus-minus/src/list_create.js)
      * [Google Groups](https://groups.google.com/g/blockly/c/hnhObVXLJw4)

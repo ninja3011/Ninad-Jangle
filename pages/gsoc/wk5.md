@@ -6,6 +6,13 @@
 
 ---
 
+<div align = "center">
+    <a align = "left" href = "./wk4"> < Prev </a> 
+      /
+    <a  href = "./wk6"> Next > </a>  
+  </div>
+
+
 1. **1/07/2021:** 
    * Added variableDB_ scrubber in the tl_verilog.js - the logic required by the tlVerilogGenerator to handle variable generation and operations
   <p align="center">     

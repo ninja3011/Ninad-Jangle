@@ -10,6 +10,13 @@
 
 ---
 
+<div align = "center">
+    <a align = "left" href = "./wk5"> < Prev </a> 
+      /
+    <a  href = "./wk7"> Next > </a>  
+  </div>
+
+
 1. **8/07/2021:** 
    * Got a dynamic category working but couldnot use getPallete
    * Written the code for pipesignal but its not registering the clicks yet. 

@@ -12,11 +12,10 @@
     <a  href = "./wk3"> Next > </a>  
   </div>
 
----
 
-<b> Note: </b> [Completed RISCV Core MYTH WORKSHOP](https://github.com/ninja3011/riscv-cpu-core)
 
----
+&nbsp; &nbsp; **Note:**  [Completed RISCV Core MYTH WORKSHOP](https://github.com/ninja3011/riscv-cpu-core)
+
 
 1. **10/06/2021:** 
    * Redesigned Layout to a Vertical column layout with three portions(toolbox, workspace, textArea+buttons) for better aesthetics and ease of programming. 

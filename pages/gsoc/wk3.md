@@ -6,6 +6,13 @@
 
 ---
 
+<div align = "center">
+    <a align = "left" href = "./wk2"> < Prev </a> 
+      /
+    <a  href = "./wk4"> Next > </a>  
+  </div>
+
+
 1. **17/06/2021:** 
    * Documented the RISCV CPU Core from Myth Workshop
 2. **18/06/2021:**

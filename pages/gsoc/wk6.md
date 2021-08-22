@@ -11,7 +11,7 @@
       /
     <a  href = "./wk7"> Next > </a>  
   </div>
-
+<br></br>
 
 &nbsp; &nbsp; **Note:** RESTRUCTURING CODE FROM SCRATCH
 

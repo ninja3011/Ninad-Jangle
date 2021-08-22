@@ -6,9 +6,9 @@
 
 ---
 <div align = "center">
-    <a align = "left" href = "./wk6.md"> < Prev </a> 
+    <a align = "left" href = "./wk6"> < Prev </a> 
       /
-    <a  href = "./wk8.md"> Next > </a>  
+    <a  href = "./wk8"> Next > </a>  
   </div>
 
 1. **15/07/2021:** 

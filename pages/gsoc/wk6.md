@@ -6,16 +6,17 @@
 
 ---
 
-**Note:** RESTRUCTURING CODE FROM SCRATCH
-
----
-
 <div align = "center">
     <a align = "left" href = "./wk5"> < Prev </a> 
       /
     <a  href = "./wk7"> Next > </a>  
   </div>
 
+---
+
+**Note:** RESTRUCTURING CODE FROM SCRATCH
+
+---
 
 1. **8/07/2021:** 
    * Got a dynamic category working but couldnot use getPallete

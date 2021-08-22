@@ -6,10 +6,16 @@
 
 ---
 
-
 <b> Note: </b> [Completed RISCV Core MYTH WORKSHOP](https://github.com/ninja3011/riscv-cpu-core)
 
 ---
+
+<div align = "center">
+    <a align = "left" href = "./wk1"> < Prev </a> 
+      /
+    <a  href = "./wk3"> Next > </a>  
+  </div>
+
 
 1. **10/06/2021:** 
    * Redesigned Layout to a Vertical column layout with three portions(toolbox, workspace, textArea+buttons) for better aesthetics and ease of programming. 

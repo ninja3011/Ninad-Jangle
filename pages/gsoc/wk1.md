@@ -6,6 +6,12 @@
 
 ---
 
+<div align = "center">
+    <a align = "left" href = "./wk0_2"> < Prev </a> 
+      /
+    <a  href = "./wk2"> Next > </a>  
+  </div>
+
 1. **3/06/2021:** 
    * removed the base errors got a text area running for the code display
    * couldn’t find the procedure to use a custom language generator with the package

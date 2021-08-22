@@ -6,6 +6,13 @@
 
 ---
 
+<div align = "center">
+    <a align = "left" href = "./wk3"> < Prev </a> 
+      /
+    <a  href = "./wk5"> Next > </a>  
+  </div>
+
+
 1. **24/06/2021:** 
    * Employed a very implistic permutations algortihm which creates all combinations for scope.
    * I need to make it smart, make sure only the relevant scopes come

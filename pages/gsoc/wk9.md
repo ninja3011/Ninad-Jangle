@@ -6,6 +6,12 @@
 
 ---
 
+<div align = "center">
+    <a align = "left" href = "./wk8.md"> < Prev </a> 
+      /
+    <a  href = "./wk10.md"> Next > </a>  
+  </div>
+
 1. **29/07/2021:** 
    * Switched to chakra-ui from bootstrap + css. 
    * Button clickhandler function names now to format handle button name

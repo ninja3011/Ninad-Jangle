@@ -1,5 +1,4 @@
 
-
 # Block Based Circuit Design
 
 This summer I mentored under the FOSSi Foundation to develop a Block Based Circuit Design Solution using blockly by google. I am excited to introduce to you the result! 
@@ -16,7 +15,7 @@ Block Based Circuit Design takes it a step further. By Gamification of the learn
 
 ## What We Have Achieved This Summer
 
-**Block Based Circuit Designer** has been Developed and Deployed from ground up. The solution is available to the users at [website-url](https://gsoc-block-based-circuit-design-site.netlify.app/").
+**Block Based Circuit Designer** has been Developed and Deployed from ground up. The solution is available to the users at [website-url](https://gsoc-block-based-circuit-design-site.netlify.app/).
 
 
 |**Proposed Deliverables**                                             |**Status**   | 

@@ -1,12 +1,12 @@
 footer {
-  display: none;
+  display: none !important;
 }
 
 .btn {
-  display: none ;
+  display: none !important ;
 }
 
 .view {
-  display: none;
+  display: none !important;
 }
 

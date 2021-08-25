@@ -1,5 +1,9 @@
 @import "{{ site.theme }}";
 
 footer {
-    display: none;
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
 }
